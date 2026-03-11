@@ -1,3 +1,9 @@
 langchain
 langchain-ollama
 langchain-chroma
+langchain-community
+duckduckgo-search
+wikipedia
+langchain-core
+langgraph
+langgraph-checkpoint
